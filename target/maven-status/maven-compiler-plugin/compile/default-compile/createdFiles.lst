@@ -1,0 +1,9 @@
+com\curd\function\test\CreateFunction.class
+com\curd\function\test\DeleteFunction.class
+com\curd\function\test\one\Create.class
+com\curd\function\test\UpdateFunction.class
+com\curd\function\test\one\Update.class
+com\curd\function\test\one\Read.class
+com\curd\function\test\two\CreateFunctionFinal.class
+com\curd\function\test\one\Delete.class
+com\curd\function\test\ReadFunction.class
