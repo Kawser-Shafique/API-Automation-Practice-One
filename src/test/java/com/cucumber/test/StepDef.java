@@ -2,8 +2,10 @@ package com.cucumber.test;
 
 import com.curd.function.test.two.CreateFunctionFinal;
 
-import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+
+
 
 public class StepDef {
 
